@@ -37,3 +37,25 @@
 ## Цитаты
 
 ## Заключение
+
+Существует множество “расширенных” реализаций Markdown, которые поддерживают такие форматы, как таблицы, списки определений, сноски и многое другое. Поскольку они нестандартны, они не являются необходимыми для изучения основ, как мы здесь представили.
+
+Если вы хотите узнать больше об этих реализациях Markdown, вы можете изучить любое количество других приложений и руководств Markdown. Вот лишь некоторые из них:
+
+https://daringfireball.net/projects/markdown/
+
+https://spec.commonmark.org/dingus/
+
+https://johnmacfarlane.net/babelmark2/faq.html
+
+https://www.markdownguide.org
+
+https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/
+
+http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/
+
+https://en.wikipedia.org/wiki/Markdown#Example
+
+https://docs.gitlab.com/ee/user/markdown.html
+
+https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
